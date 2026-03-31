@@ -4,7 +4,7 @@ class Match {
     protected String team2;
 
     public Match(String format, String team1, String team2) {
-        this.format = format;
+        this.format = format; 
         this.team1 = team1;
         this.team2 = team2;
     }
